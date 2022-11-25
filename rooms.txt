@@ -1,0 +1,10 @@
+number, price, kitchen, number_of_beds, air_condition, floor
+101, 100, False, 1, False, 1
+102, 100, False, 1, False, 1
+103, 100, False, 1, False, 1
+201, 200, True, 2, False, 2
+202, 200, True, 2, False, 2
+203, 200, True, 2, False, 2
+301, 300, True, 3, True, 3
+302, 300, True, 3, True, 3
+303, 300, True, 3, True, 3

@@ -1,0 +1,7 @@
+def stick(*args):
+    args = [arg for arg in args if isinstance(arg, str)]
+    x = "#".join(args)
+    return x
+
+
+print(stick('a','b','c','d',4,5))
