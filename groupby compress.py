@@ -7,5 +7,5 @@ def compress(number):
     return (result2)
 
 
-# uruchamia funkcję i grupuje cyfry ilość cyfr zastępując kropką
+
 print(compress(11225555555555))
