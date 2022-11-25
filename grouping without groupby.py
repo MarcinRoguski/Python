@@ -17,5 +17,5 @@ def compress(number):
     return numberCompressed
 
 
-# uruchamia funkcję i grupuje cyfry
+
 print(compress(111222333444444445555555555))
